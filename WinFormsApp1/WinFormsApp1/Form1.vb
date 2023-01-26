@@ -6,5 +6,6 @@
         MsgBox("Het verschil van de twee cijfers is " & verschil)  'som vervangen door verschil
 
         ' ik weet niet wat te veranderen, here's a smiley --> :) -Ugur
+        'We are the Borg. Resistance is futile. May the Force be with you Harry, said Arslan. --- Raf
     End Sub
 End Class
