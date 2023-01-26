@@ -8,19 +8,24 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\kevin\\.nuget\\packages\\": {}
+    "C:\\Users\\ugurk\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kevin\\HerhalingGit\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+      "projectUniqueName": "C:\\Users\\ugurk\\HerhalingGit\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
       "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\kevin\\HerhalingGit\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
-      "packagesPath": "C:\\Users\\kevin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kevin\\HerhalingGit\\WinFormsApp1\\WinFormsApp1\\obj\\",
+      "projectPath": "C:\\Users\\ugurk\\HerhalingGit\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+      "packagesPath": "C:\\Users\\ugurk\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ugurk\\HerhalingGit\\WinFormsApp1\\WinFormsApp1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\kevin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ugurk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,6 +33,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Users\\ugurk\\Documents\\.college\\platform dev\\.nuget packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +70,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

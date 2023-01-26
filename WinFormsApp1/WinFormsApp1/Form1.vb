@@ -5,5 +5,6 @@
         Dim verschil = nummer - nummer2
         MsgBox("Het verschil van de twee cijfers is " & verschil)  'som vervangen door verschil
 
+        ' ik weet niet wat te veranderen, here's a smiley --> :) -Ugur
     End Sub
 End Class
